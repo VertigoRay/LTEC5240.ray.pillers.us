@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Personal Preferences in Gaming
 img: //i.imgur.com/1flydtA.png
 author: Raymond Piller

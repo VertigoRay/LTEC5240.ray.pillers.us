@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Defining Educational Games
 img: //i.imgur.com/1flydtA.png
 author: Raymond Piller

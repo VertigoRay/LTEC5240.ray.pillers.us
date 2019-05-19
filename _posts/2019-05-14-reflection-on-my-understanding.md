@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Reflection On My Own Understanding
 img: //i.imgur.com/1flydtA.png
 author: Raymond Piller

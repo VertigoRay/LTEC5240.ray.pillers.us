@@ -20,7 +20,8 @@ This is the source for [my project](http://ltec5220.ray.pillers.us), hosted by [
 Then just need to `cd` into this git repo and run the dev server:
 
 ```bash
-cd ltec5220.ray.pillers.us
+cd ltec5240.ray.pillers.us
+bundle install
 jekyll serve
 ```
 
