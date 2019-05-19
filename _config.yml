@@ -293,3 +293,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
