@@ -23,7 +23,7 @@ Travel across the colored shapes and get to the end first.
 - Game Board
   > *Several randomized game boards are included at the end of this document. In order to generate a new board, search for “LTEC 5240” on GameStructor: https://www.gamestructor.com/overview/VertigoRay*
 - Shape Dice
-  > If you don’t have a shape faced dice, use a regular dice and assign the numbers to the shapes as shown:
+  > If you don’t have a shape faced dice, use regular dice and assign the numbers to the shapes as shown:
   > 1. Red
   > 2. Orange
   > 3. Yellow
@@ -31,7 +31,7 @@ Travel across the colored shapes and get to the end first.
   > 5. Blue
   > 6. Purple
 - Colored Dice
-  > If you don’t have a color faced dice, use a regular dice and assign the numbers to the shapes as shown; consider using a different color dice (such as red) or rolling the same dice twotimes:
+  > If you don’t have a color faced dice, use regular dice and assign the numbers to the shapes as shown; consider using a different color dice (such as red) or rolling the same dice two times:
   > 1. Square
   > 2. Circle
   > 3. Triangle
@@ -63,7 +63,7 @@ For example, if you roll the color ([Red]) and a ([Triangle]), you can choose on
 - A RED TRIANGLE and draw a card.
 - Lose your turn.
 
-After the player moves they say the color and shape of the place they are on.
+After the player moves, they say the color and shape of the place they are on.
 If the player moved to a place matching both the color and the shape, they get to draw a card from the deck.
 
 If the top of the card says "SECRET" at the top then the player can keep the card a secret and use it when it is convenient.
@@ -75,12 +75,12 @@ Proceed to the next player.
 
 When the card deck runs out, the discard pile is shuffled and becomes the card deck.
 Players cannot keep more than 5 secret cards in their hand. Additional secret cards must be used as they are drawn.
-Secret cards can be used at anytime before a player lands on “END”. The moment a player lands on end, the game is over.
+Secret cards can be used at any time before a player lands on “END”. The moment a player lands on end, the game is over.
 Only one player can occupy a tile at a time. If a second player lands on a tile, the first player is sent back to the “GO” tile.
 
 # Scoring
 
-There is not score. Only win and lose.
+There is no score. Only win and lose.
 
 # Winning
 
