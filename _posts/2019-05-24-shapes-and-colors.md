@@ -48,8 +48,8 @@ Travel across the colored shapes and get to the end first.
 1. Place all tokens on "GO".
 2. Shuffle the deck of cards and place it near the board.
 3. Decide who goes first; here is an idea for deciding:
-  - First game: the person whose birthday is next chooses who goes first.
-  - Next games: winner from previous game chooses who goes first.
+   - First game: the person whose birthday is next chooses who goes first.
+   - Next games: winner from previous game chooses who goes first.
 
 # Game Play
 
