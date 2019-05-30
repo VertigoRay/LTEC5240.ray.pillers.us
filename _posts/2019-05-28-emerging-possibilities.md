@@ -15,7 +15,7 @@ Even though AR/VR is still very much in the hype phase, I see VR combined with A
 AI can be used to evaluate performance and adapt settings to increase challenge, interest, and flow-ability.
 It can also be used to provide unique conversations with unique characters giving literally one-of-a-kind experiences to a player or student.
 
-As prices come down, the affordability will increase uptake and usage of VR.
+As prices come down, the affordability will increase the uptake and usage of VR.
 This will allow more schools to be able to take advantage of Google Expeditions, Assassin's Creed's Discovery Mode, and new and improved VR experiences.
 I expect to see more games exposing their engines and creative talents to the education realm giving them both exposure and, very likely, grants and donations for additional development.
 
