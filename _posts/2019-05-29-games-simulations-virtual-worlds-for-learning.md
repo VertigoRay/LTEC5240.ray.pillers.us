@@ -1,30 +1,43 @@
 ---
 layout: single
-title: Emerging Possibilities
+title: Games, Simulations, & Virtual Worlds for Learning
 img: //i.imgur.com/1flydtA.png
 author: Raymond Piller
 comments: true
 tags:
 - Reflection
 ---
-> We find ourselves a long way from the days of the first text-based adventure games and simple knobs of the Pong console.
-> Looking at the technological options we currently have, where do you anticipate gaming technology heading in the future?
-> What will become the dominant platform for development and how will players interface with their games?
+> Reflect on your experiences this semester as they relate to the following:
+>
+> - Game design and its connection to learning theories and instructional design;
+> - The relationship between immersive learning and your professional/academic goals/research interests;
+> - Where you think gamified and immersive learning is headed in the future; and
+> - Lessons learned to support your academic progress as a learning technologist.
 
-Even though AR/VR is still very much in the hype phase, I see VR combined with AI/ML bringing the highest degree of change to gaming.
-AI can be used to evaluate performance and adapt settings to increase challenge, interest, and flow-ability.
-It can also be used to provide unique conversations with unique characters giving literally one-of-a-kind experiences to a player or student.
+I came into this class hoping to learn how to be a game developer.
+Much like the rest of the classes in the [LTEC program](https://lt.unt.edu/masters), the focus was more on the administrative side and less on the technical side.
+However, I had an open mind about it all.
 
-As prices come down, the affordability will increase the uptake and usage of VR.
-This will allow more schools to be able to take advantage of Google Expeditions, Assassin's Creed's Discovery Mode, and new and improved VR experiences.
-I expect to see more games exposing their engines and creative talents to the education realm giving them both exposure and, very likely, grants and donations for additional development.
+Gamification of learning is a buzz word that has grasped the education industry.
+Being able to connect education to gaming will change the fabric of what we think about education in the future.
+However, we have to be careful that what we are teaching is based on principals that have been fleshed out and stood the test of time.
+[Putting together the GDD](/2019/05/27/creating-the-roadmap/) has afforded me the opportunity to experience the process in a very detailed and thoughtful manner.
+When designing an educational game, it would be easy to forget the educational aspects and just make a game.
+However, keeping the end-goal in mind while fleshing out the idea is a necessary feat that the GDD helps us accomplish.
 
-However, this does not exclude non-VR gaming systems from being successful, as [*Ready Player One*](https://www.imdb.com/title/tt1677720/) suggests.
-There is a huge following for indie 2D side scrollers that make games like [Starbound](https://playstarbound.com/) very successful in their own right.
+I have strong interests in working with immersive learning environments to allow students to be more effective learners while doing it on their terms.
+Because no two humans are alike, learning can and should be individualized.
+Doing so will allow students to be catered to their needs without compromising the pre-defined learning objectives for the class/course.
+I hope to research technology that will aid teachers in determining what works and what does not work for each student in their class.
+The insights will lead to greater understanding and empathy, allowing the teacher to individualize the attention needs of a student.
 
-Siemens' (2005) learning theory of Connectivism is paramount regardless of the direction of technology.
-The social aspect of gaming will cement knowledge and understanding into wisdom.
+I personally believe that gamified and immersive learning will move towards VR and AR.
+VR is the most epitome of immersive.
+Likewise, AR will allow blended immersion into the real world.
+The fact is, [mixed reality is already here](https://youtu.be/6lxGU66w0NM).
+It is going to get easier for front-line workers and students learn, troubleshoot, and experience real-world issues while never being near a troubled situation.
+Imagine a mechanical engineering student being able to fix a broken jet engine over and over and over again until they get it right; without costing the school or institution any money on engine parts.
 
-# References
-
-Siemens, G. (2005). Connectivism: A learning theory for the digital age. Retrieved from http://202.116.45.236/mediawiki/resources/2/2005_siemens_Connectivism_A_LearningTheoryForTheDigitalAge.pdf
+Overall, I learned that there is a lot of benefit in planning out a project.
+When I made the initial design of [my Scratch game](https://scratch.mit.edu/projects/313022347), I thought it was really good.
+However, after thinking through the GDD, I realized that there were a lot of fundamental pieces missing from the *puzzle*.
