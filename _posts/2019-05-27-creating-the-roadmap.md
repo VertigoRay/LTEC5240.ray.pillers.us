@@ -18,15 +18,15 @@ During the Game Design Documentation (GDD) phase, I came to the realization that
 Several parts of the GDD template could have been removed from the final version of my GDD.
 The programming and logistics sections (specifically the human resources section) were mostly not needed for the GDD of the Scratch project.
 Since the project required the use of Scratch, the *special technical requirements*, *game engine*, *rendering*, *artificial intelligence*, *physics*, and *gameplay code* were all handled by Scratch or not even viable in Scratch.
-Since this was a an individual project, no human resource requirements (aside from me being the one man show) were required.
+Since this was an individual project, no human resource requirements (aside from me being the one-man show) were required.
 
 That doesn't mean that I believe the GDD is useless.
 It is a wonderful tool to help expand an idea in a very specific direction.
 In its simplest form, the GDD can be used as a checklist of what needs to be thought through and organized.
 
 I also would have likely added a couple of additional section to the template: *pedagogy* and *research*.
-The learning objectives helped to flesh out the game with a focus in learning.
-However, proper research into the tangible content and hos can be tied to proper pedagogy is paramount to the success of and instructional game.
+The learning objectives helped to flesh out the game with a focus on learning.
+However, proper research into the tangible content and hos can be tied to proper pedagogy is paramount to the success of an instructional game.
 Warren and Jones (2017), during their discussion of the approaches to designing instructional games, warn that off-the-shelf games can limit the effectiveness of properly synthesizing the "pedagogy, content, learning objectives, and gameplay."
 They (Warren & Jones, 2017) make it clear that the role of the learning game designer is to construct a learning experience where everything is transferrable while being highly motivating to the learner.
 In other words:
